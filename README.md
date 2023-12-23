@@ -1,3 +1,3 @@
 # Python-Codes
-## All code tutorial for python clean code course
-## DR/ Elhessiny
+# All code tutorials for python clean code course
+# DR/ Elhessiny
